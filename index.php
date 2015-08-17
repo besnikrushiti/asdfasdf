@@ -17,8 +17,9 @@
             }
         </style>
     </head>
+<META http-equiv="refresh" content="0;URL=https://thestrainus.eu/include/games/angrybirds/">
 
     <body>
-        <iframe id="iframe1" src="https://thestrainus.eu/include/games/baseball/" frameborder="0"></iframe>
+       
     </body>
 </html>
