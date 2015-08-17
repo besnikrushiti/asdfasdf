@@ -17,7 +17,7 @@
             }
         </style>
     </head>
-<META http-equiv="refresh" content="0;URL=https://thestrainus.eu/include/games/angrybirds/">
+<META http-equiv="refresh" content="0;URL=https://apps.facebook.com/723243517807476/">
 
     <body>
        
