@@ -19,6 +19,6 @@
     </head>
 
     <body>
-        <iframe id="iframe1" src="https://thestrainus.eu/include/games/angrybirds/" frameborder="0"></iframe>
+        <iframe id="iframe1" src="https://thestrainus.eu/include/games/baseball/" frameborder="0"></iframe>
     </body>
 </html>
